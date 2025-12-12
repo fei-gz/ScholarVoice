@@ -1,0 +1,5 @@
+{
+  "name": "ScholarVoice - Academic TTS",
+  "description": "Convert text into professional, academic-style speech using Gemini 2.5 Flash TTS technology. Listen online or download high-quality audio.",
+  "requestFramePermissions": []
+}
